@@ -1,3 +1,7 @@
+## Live Demo
+- Frontend: https://laundry-os-ui.onrender.com
+- Backend API: https://laundry-os-api.onrender.com
+
 # LaundryOS — Mini Laundry Order Management System
 
 A full-stack order management system for dry cleaning stores.  
