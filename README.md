@@ -1,4 +1,5 @@
 ## Live Demo
+> Note: First load may take 30-60 seconds — Render free tier sleeps on inactivity.
 - Frontend: https://laundry-os-ui.onrender.com
 - Backend API: https://laundry-os-api.onrender.com
 
