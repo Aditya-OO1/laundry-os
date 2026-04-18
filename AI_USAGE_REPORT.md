@@ -16,15 +16,7 @@ Used for specific implementation help, syntax reference, and debugging assistanc
 
 ### Prompt given to AI:
 ```
-I have to build a mini laundry order management system in 72 hours.
-Features needed:
-- Create orders (customer name, phone, garments, qty, price)
-- Generate unique order ID and total bill
-- Track status: RECEIVED, PROCESSING, READY, DELIVERED
-- View all orders, filter by status or customer
-- Basic dashboard (total orders, revenue, orders per status)
-Tech: Node.js + Express + MongoDB + React
-What should my folder structure look like?
+Node.js project mein backend aur frontend ko alag rakhna chahiye ya monorepo better hoga?
 ```
 
 ### What AI returned:
