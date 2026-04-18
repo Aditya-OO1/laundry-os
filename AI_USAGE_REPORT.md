@@ -288,7 +288,7 @@ would silently resolve as `undefined` instead of triggering `.catch()` in compon
 
 AI was genuinely useful for:
 - Getting initial structure and boilerplate quickly
-- Writing boilerplate (schemas, route handlers, React component structure)
+- Writing repetitive code (schemas, route handlers, React component structure)
 - Remembering Mongoose aggregation syntax
 
 AI consistently made mistakes in:
