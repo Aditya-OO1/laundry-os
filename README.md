@@ -186,7 +186,7 @@ Response:
 - **Claude (Anthropic)** — primary tool for scaffolding and iteration
 
 ### Sample prompts used
-- *"Scaffold an Express + MongoDB REST API for a laundry order management system with auth, orders CRUD, and a dashboard summary endpoint"*
+- *"Node.js project mein backend aur frontend alag rakhna chahiye ya monorepo better hoga?"*
 - *"Add a Mongoose pre-save hook to auto-generate sequential order IDs like ORD-0001"*
 - *"Write a React context for JWT auth with login, register, logout, and auto-restore from localStorage"*
 - *"Build a filter + search bar in React that queries the API with status, garment type, and a text search simultaneously"*
