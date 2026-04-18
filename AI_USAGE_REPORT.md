@@ -287,7 +287,7 @@ would silently resolve as `undefined` instead of triggering `.catch()` in compon
 ## Honest Assessment
 
 AI was genuinely useful for:
-- Getting a working skeleton in minutes instead of hours
+- Getting initial structure and boilerplate quickly
 - Writing boilerplate (schemas, route handlers, React component structure)
 - Remembering Mongoose aggregation syntax
 
