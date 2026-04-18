@@ -50,7 +50,7 @@ The evaluators specifically said "not over-engineered" — so I simplified.
 
 ### Prompt given to AI:
 ```
-Write an Express + Mongoose Order model for a dry cleaning store.
+Mongoose mein pre-save hook ka sahi tarika kya hai — orderId auto-generate karna hai without race condition?
 Fields: customer name, phone, garments array (name, qty, price per piece, subtotal),
 total amount, status enum, estimated delivery date, created by (ref User).
 Auto-generate a sequential order ID like ORD-0001 before saving.
@@ -89,7 +89,7 @@ For a production system I'd use an atomic counter collection — noted in tradeo
 
 ### Prompt given to AI:
 ```
-Write Express routes for register and login using JWT and bcrypt.
+bcrypt comparePassword async hai — JWT login route mein null user handle kaise karein?
 Return a token on success. Add a /me route that returns current user from token.
 ```
 
