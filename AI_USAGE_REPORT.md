@@ -8,9 +8,7 @@
 ## Tool Used
 
 **Claude (Anthropic — claude.ai)**
-Used as the primary coding assistant throughout the project.
-No code was written manually from scratch — AI was used to scaffold everything,
-and I iterated by fixing bugs, restructuring logic, and improving output.
+Used for specific implementation help, syntax reference, and debugging assistance.
 
 ---
 
