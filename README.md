@@ -187,11 +187,11 @@ Response:
 - **Claude (Anthropic)** — primary tool for scaffolding and iteration
 
 ### Sample prompts used
-- *"Node.js project mein backend aur frontend alag rakhna chahiye ya monorepo better hoga?"*
-- *"Mongoose pre-save hook mein race condition kaise avoid karein sequential IDs ke liye?"*
-- *"React mein JWT token localStorage se auto-restore kaise karein page refresh pe?"*
-- *"React mein multiple filters simultaneously API pe bhejne ka sahi pattern kya hai?"*
-- *"Postman mein login response se token automatically save kaise karein next requests ke liye?"*
+- *"Should I keep backend and frontend separate or use a monorepo structure?"*
+- *"How to avoid race condition in Mongoose pre-save hook for sequential ID generation?"*
+- *"How to auto-restore JWT token from localStorage on page refresh in React?"*
+- *"What is the right pattern to send multiple filters simultaneously to an API in React?"*
+- *"How to automatically save token from login response in Postman for subsequent requests?"*
 
 ### What AI got right
 - Full Express route structure with proper error handling and middleware chain
