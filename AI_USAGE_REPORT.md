@@ -16,7 +16,7 @@ Used for specific implementation help, syntax reference, and debugging assistanc
 
 ### Prompt given to AI:
 ```
-Node.js project mein backend aur frontend ko alag rakhna chahiye ya monorepo better hoga?
+Should I keep backend and frontend separate or use a monorepo structure?
 ```
 
 ### What AI returned:
@@ -42,7 +42,7 @@ The evaluators specifically said "not over-engineered" — so I simplified.
 
 ### Prompt given to AI:
 ```
-Mongoose mein pre-save hook ka sahi tarika kya hai — orderId auto-generate karna hai without race condition?
+How to avoid race condition in Mongoose pre-save hook for sequential ID generation?
 Fields: customer name, phone, garments array (name, qty, price per piece, subtotal),
 total amount, status enum, estimated delivery date, created by (ref User).
 Auto-generate a sequential order ID like ORD-0001 before saving.
@@ -81,7 +81,7 @@ For a production system I'd use an atomic counter collection — noted in tradeo
 
 ### Prompt given to AI:
 ```
-bcrypt comparePassword async hai — JWT login route mein null user handle kaise karein?
+bcrypt comparePassword is async — how to handle null user in JWT login route?
 Return a token on success. Add a /me route that returns current user from token.
 ```
 
